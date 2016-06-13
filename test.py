@@ -1,1 +1,1 @@
-print 'hello word' fgb
+print 'hello word'
